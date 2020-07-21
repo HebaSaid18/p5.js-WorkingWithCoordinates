@@ -15,7 +15,7 @@ function draw() {
   // purposes. For example, the first two parameters to line()
   // specify the coordinates of the first endpoint and the second
   // two parameters specify the second endpoint
-  stroke(0, 153, 255);
+  stroke(255, 153, 255);
   x = 0;
   y = height * 0.5;
 
